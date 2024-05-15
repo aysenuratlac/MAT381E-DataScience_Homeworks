@@ -1,2 +1,2 @@
 # MAT381-Introduction To DataScience
-This repo is created for MAT381E-Introduction to Data Science homeworks .
+This repo is created for my assignments from the MAT381-Introduction to DataScience class taught by Atabey Kaygun at Istanbul Technical University.
